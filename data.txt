@@ -1,0 +1,13 @@
+Answer for "Three particles A, B and C, each of mass m, are placed in that \
+order, in a straight line on a
+smooth horizontal table. The particle A is given a velocity u such \
+that it collides directly with
+the particle B. After colliding with the particle A, the particle 8 \
+moves and collides directly with
+the particle C. The coefficient of restitution between A and B is e. \
+Find the velocity of B after
+the first collision.
+
+The coefficient of restitution between B and C is also e. Write down \
+the velocity of C after its
+collision with B." is x+y
