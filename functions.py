@@ -24,7 +24,7 @@ def run_conversation():
     question = """Two particles A and B of masses 2m and m respectively, moving towards each other with the
 same speed u along a smooth horizontal table collide in a simple collision. Moments after the collision,
 particle A comes to rest. Show that the coefficient of restitution = and the magnitude of
-the impulse on B due to the collision is 2mu.."""
+the impulse on B due to the collision is 2mu."""
 
     messages = [{"role": "user", "content": "Don't solve the question.Find the variables in this question and Rename the variables to  the given format  "+question}]
     functions = [
